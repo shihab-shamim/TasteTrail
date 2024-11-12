@@ -1,4 +1,5 @@
 # Project Title
+###TasteTrail - Restaurant Web Experience
 
 ## Project Description
 This project is a **responsive website** built to fulfill the requirements of a job task, showcasing skills in React, UI/UX design, and web development. The application meets the following criteria:
