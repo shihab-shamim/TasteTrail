@@ -38,7 +38,7 @@ An interactive form with basic validation, supporting submissions.
 
 
 ## Project Demo
-**Live Preview Link**: [https://your-live-preview-link.com](https://your-live-preview-link.com)
+**Live Preview Link**: [lIVE LINK](https://stellular-lolly-b5ac99.netlify.app/)
 
 ## Installation and Setup
 Follow these steps to run the project locally:
@@ -46,5 +46,4 @@ Follow these steps to run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
-   ```bash
-   npm install
+   
