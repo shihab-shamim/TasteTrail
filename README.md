@@ -2,7 +2,7 @@
 ###TasteTrail - Restaurant Web Experience
 
 ## Project Description
-This project is a **responsive website** built to fulfill the requirements of a job task, showcasing skills in React, UI/UX design, and web development. The application meets the following criteria:
+asteTrail is a sophisticated, responsive web platform created to elevate the digital presence of modern dining establishments. This website offers a seamless user experience that allows visitors to immerse themselves in the restaurant's ambiance, explore curated menus, and book reservations effortlessly. Key features include:
 
 - **Sticky Header** for consistent navigation.
 - **Tabbed About Section** with placeholder content.
