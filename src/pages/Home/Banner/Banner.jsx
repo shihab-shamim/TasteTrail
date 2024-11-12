@@ -2,7 +2,7 @@ const Banner = () => {
   return (
     <div className="bg-red-800 py-0 md:py-36">
       <div className="relative max-w-[1320px] mx-auto flex flex-col md:flex-row lg:flex-row">
-        <div className="grow absolute top-28 z-50">
+        <div className="grow absolute top-28 ">
           <img
             className="absolute ml-10 z-20 opacity-60 hidden md:flex"
             src="hedingBg.png"
