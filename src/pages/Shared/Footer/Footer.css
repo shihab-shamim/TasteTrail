@@ -1,0 +1,14 @@
+h3 {
+  font-family: "Bebas Neue";
+}
+
+h2 {
+  font-family: "Bebas Neue";
+}
+h1,
+p {
+  font-family: "Roboto";
+}
+.Footer-Image {
+  background-image: url("../../../../public/FooterImg.jpg");
+}

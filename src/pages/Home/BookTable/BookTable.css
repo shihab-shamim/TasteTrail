@@ -1,0 +1,11 @@
+.bookTable-image {
+  background-image: url("../../../../public/BookImagePic.png");
+}
+h1,
+p {
+  font-family: "Roboto";
+}
+
+h3 {
+  font-family: "Bebas Neue";
+}
