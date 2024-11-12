@@ -28,10 +28,14 @@ A sliding testimonial section to display feedback with a slide transition effect
 An interactive form with basic validation, supporting submissions.
 
 ## Technology Stack
-- **React**: For building the UI and handling component-based structure.
-- **CSS Modules / Styled Components**: Used for component-level styling.
-- **Swiper.js / Slick Carousel**: Carousel and slider functionality.
-- **Formik / React Hook Form**: Form validation and management.
+## Technology Stack
+- **React**: For building the UI and managing a component-based structure.
+- **Tailwind CSS**: A utility-first CSS framework for rapid and responsive UI design, enhancing consistency and productivity.
+- **CSS Modules / Styled Components**: For component-level styling, enabling modular and reusable styling solutions.
+- **Custom Carousel**: Developed specifically to meet the unique requirements of the project, providing full control over functionality and design.
+- **Formik / React Hook Form**: For efficient form validation and management, ensuring a smooth user experience during interactions.
+- **EmailJS**: Used for sending confirmation emails upon form submissions or booking requests, integrating email notifications with custom templates for seamless communication.
+
 
 ## Project Demo
 **Live Preview Link**: [https://your-live-preview-link.com](https://your-live-preview-link.com)
@@ -42,3 +46,5 @@ Follow these steps to run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
+   ```bash
+   npm install
